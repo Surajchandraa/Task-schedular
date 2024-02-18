@@ -45,3 +45,7 @@ in tasks.conf file write
 `18:32 Task1 echo $(notify-send "presentation" "prepare presentation for tomorrow")`
 
 - output- It will send notification at 18:32
+
+## Contributing
+
+Contributions are welcome! Feel free to submit bug reports, feature requests, or pull requests.
